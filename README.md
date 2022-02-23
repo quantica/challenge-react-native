@@ -5,7 +5,7 @@ O projeto deve ser publicado em um repositório do github e compartilhado com qu
 ### Requisitos funcionais
 - É necessario adicionar um filtro pro nome para facilitar na hora de procurar um municio.
 - A Capital de cada estado deve estar em destaque.
-- 
+
 ### Requisitos tecnicos
 - react-native
 - react-navigator
