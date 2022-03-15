@@ -1,5 +1,5 @@
 # Desafio REACT NATIVE
-Olá, buscando se aproximar dos problemas que encontrará no dia a dia, queremos que desenvolva um tela de listagem de estados e municípios, onde o usuário deve inicalmente ver uma lista de estados e, ao clicar em cada um, ver a lista de seus municipios.
+Buscando se aproximar dos problemas que encontrará no projeto, queremos que você desenvolva uma tela de listagem de estados e municípios, onde o usuário deve, inicialmente, ver uma lista de estados e, ao clicar em cada um, ver a lista de seus municipios.
 
 O projeto deve ser publicado em um repositório do github e compartilhado com quem lhe enviou esse desafio.
 
