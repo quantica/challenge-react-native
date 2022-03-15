@@ -15,7 +15,7 @@ O projeto deve ser publicado em um repositório do github e compartilhado com qu
 ### APIs
 
 - Listagem de estados:
--- https://servicodados.ibge.gov.br/api/v1/localidades/estados
+https://servicodados.ibge.gov.br/api/v1/localidades/estados
 
 - Listagem de municípios por estado:
--- https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF}/distritos
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF}/distritos
